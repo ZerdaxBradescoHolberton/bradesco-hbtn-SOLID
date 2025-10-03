@@ -1,5 +1,7 @@
 // classe users, representando nossa entidade
 
+import java.util.List;
+
 class UsersModels {
 
     int idUser;
@@ -10,6 +12,6 @@ class UsersModels {
 
 // função que coleta todos os users
 
-    public getUsers() {return [];}
+    public List<UsersModels> getUsers() {return List.of();}
 
 }
