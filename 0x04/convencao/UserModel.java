@@ -1,4 +1,4 @@
-package convencao;// classe users, representando nossa entidade
+// classe users, representando nossa entidade
 
 class UsersModels {
 
